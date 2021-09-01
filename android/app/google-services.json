@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070863428506",
+    "project_id": "medicalchatbot-f36b6",
+    "storage_bucket": "medicalchatbot-f36b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070863428506:android:d9ae5aaeed752fc8266823",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070863428506-nc71rntpr5i9q4qvu7tm4nlp0p7i0hga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgpYr40NTvX1d34qR2minEzMBhtVSBOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070863428506-nc71rntpr5i9q4qvu7tm4nlp0p7i0hga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
